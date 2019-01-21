@@ -6,3 +6,7 @@ Plot of the full 7x7 data points
 Plot of the 9 basic points from the 7x7 test with the remaining points determined by 2nd order interpolation
 ## combinedFront.png / combined Rear.png / combinedRearLow.png
 7x7 and 3x3 plots combined with the 9 basic evaluation points demarcated
+## meshBedLevelingPowderCoatedSheet.png
+Plot of 7x7 test using Prusa powder coated sheet for comparison to Prusa smooth sheet with PEI sticker; z values are deviation from center point normalized as 0
+## meshBedLevelingPowderCoatedSheet.png
+Plot of 7x7 test using Prusa smooth sheet with PEI sticker for comparison with Prusa powder coated sheet; z values are deviation from center point normalized as 0
