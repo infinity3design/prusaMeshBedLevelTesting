@@ -8,5 +8,5 @@ Plot of the 9 basic points from the 7x7 test with the remaining points determine
 7x7 and 3x3 plots combined with the 9 basic evaluation points demarcated
 ## meshBedLevelingPowderCoatedSheet.png
 Plot of 7x7 test using Prusa powder coated sheet for comparison to Prusa smooth sheet with PEI sticker; z values are deviation from center point normalized as 0
-## meshBedLevelingPowderCoatedSheet.png
+## meshBedLevelingSteelSheet.png
 Plot of 7x7 test using Prusa smooth sheet with PEI sticker for comparison with Prusa powder coated sheet; z values are deviation from center point normalized as 0
